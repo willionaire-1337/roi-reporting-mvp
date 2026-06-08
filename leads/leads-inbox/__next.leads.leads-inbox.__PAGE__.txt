@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[88117,["/roi-reporting-mvp/_next/static/chunks/0dd75eef339361f4.js","/roi-reporting-mvp/_next/static/chunks/4af01455009abb3a.js"],"ClientPageRoot"]
+3:I[99050,["/roi-reporting-mvp/_next/static/chunks/3277dddcf8fb06e6.js","/roi-reporting-mvp/_next/static/chunks/820464f0a3737730.js","/roi-reporting-mvp/_next/static/chunks/b5844074ac63c4c4.js","/roi-reporting-mvp/_next/static/chunks/2191775fbea19841.js","/roi-reporting-mvp/_next/static/chunks/bce3dc4e27324b8f.js"],"default"]
+6:I[67665,["/roi-reporting-mvp/_next/static/chunks/0dd75eef339361f4.js","/roi-reporting-mvp/_next/static/chunks/4af01455009abb3a.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"9bvKiE-es4L9wVjO-_6xf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/roi-reporting-mvp/_next/static/chunks/2191775fbea19841.js","async":true}],["$","script","script-1",{"src":"/roi-reporting-mvp/_next/static/chunks/bce3dc4e27324b8f.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:{}
+8:null

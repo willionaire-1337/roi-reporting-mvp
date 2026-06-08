@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[67665,["/roi-reporting-mvp/_next/static/chunks/0dd75eef339361f4.js","/roi-reporting-mvp/_next/static/chunks/4af01455009abb3a.js"],"ViewportBoundary"]
+3:I[67665,["/roi-reporting-mvp/_next/static/chunks/0dd75eef339361f4.js","/roi-reporting-mvp/_next/static/chunks/4af01455009abb3a.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"9bvKiE-es4L9wVjO-_6xf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}

@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,92320,(e,t,r)=>{t.exports=e.r(71763)},95293,e=>{"use strict";var t=e.i(41340),r=e.i(92320);function u(){let e=(0,r.useRouter)();return(0,t.useEffect)(()=>{e.replace("/leads/overview")},[e]),null}e.s(["default",()=>u])}]);
